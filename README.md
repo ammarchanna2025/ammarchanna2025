@@ -72,7 +72,7 @@ Responsive Web Design, Full-Stack Development, API Integration, Query Optimizati
 ---
 
 ## **📫 Let's Connect!**  
-- 💼 [Email](ammar.channa2003@outlook.com)
+- 📧 [ammar.channa2003@outlook.com](mailto:ammar.channa2003@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-rasool-5226a3247/)
 - 🏗️ [GitHub](https://github.com/ammarchanna2025)
 
