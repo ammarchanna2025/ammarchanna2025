@@ -39,12 +39,12 @@ Responsive Web Design, Full-Stack Development, API Integration, Query Optimizati
 ---
 ## **🚀 Featured Projects**  
 
-**🧠 Brain Tumor Detection Using AI Transformer (Final Year Project):**
+**🧠 Brain Tumor Detection Using AI Transformer:**
 - Designed a lightweight 3D deep learning model for brain tumor segmentation.
 - Model: Implemented using SegFormer 3D with Python and PyTorch for efficiency and high accuracy.
 - Deployment: Integrated the model into a MERN stack web app for practical use in medical imaging.
   
-[🔗 View Project](https://github.com/ammarchanna2025/btd_website)  
+[🔗 View Project](https://btd-website.vercel.app/)  
 
 **🛒 E-Commerce Website with AI Chatbot** 
 - Developed a full-featured E-Commerce platform with the MERN stack.
