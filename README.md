@@ -60,7 +60,7 @@ Responsive Web Design, Full-Stack Development, API Integration, Query Optimizati
 - Backend: Laravel with MySQL for secure data management.
 - Features: Project showcase, client inquiry/contact forms, and admin-side database management.
   
-[🔗 View Project](https://github.com/ammarchanna2025/construction_website)  
+[🔗 View Project](https://super-eclair-c2a713.netlify.app/)  
 
 **🎓 Online Quiz System**
 - Developed a web-based quiz platform for teachers and students.
